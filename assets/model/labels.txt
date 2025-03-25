@@ -1,0 +1,4 @@
+0 septoria
+1 brown_rust
+2 Wheat Healthy
+3 yellow_rust

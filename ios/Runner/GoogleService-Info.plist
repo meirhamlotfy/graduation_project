@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB4nnDwc8Rp1BbcWLQPzmd7U-tPGUKboPA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>978568994023</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.graduationProject</string>
+	<key>PROJECT_ID</key>
+	<string>grade-app-5ec66</string>
+	<key>STORAGE_BUCKET</key>
+	<string>grade-app-5ec66.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:978568994023:ios:859b5c0bbf974533b45642</string>
+</dict>
+</plist>
